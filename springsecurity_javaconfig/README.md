@@ -1,0 +1,1 @@
+Basic example demonstrating the Spring MVC Security application configuring using JavaConfig style 
